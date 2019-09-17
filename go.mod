@@ -1,3 +1,3 @@
-module github.com/elliotforbes/test-package
+module github.com/jwkidd3/test-package
 
 go 1.12
